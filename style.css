@@ -189,11 +189,11 @@ table
 		 border: 2px solid lightgray;
 		 margin: 0 auto;
 		 padding:5px;
-		 border-radius:10px;
+		 border-radius:0px;
 	 }
 	  th, td
 	 {
-		 padding:20px;
+		 padding:10px;
 		 border: 1px solid lightgray;
 	 }
 	  th
