@@ -93,7 +93,14 @@ a{
 #content{
     float: left;
     width: 70%;
-    
+}
+
+#content h2{
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    color: #16a085;
 }
 /********************sidebar****************************/
 #sidebar{
